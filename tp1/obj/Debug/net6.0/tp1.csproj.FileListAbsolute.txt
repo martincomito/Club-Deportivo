@@ -1,0 +1,29 @@
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.GeneratedMSBuildEditorConfig.editorconfig
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.AssemblyInfoInputs.cache
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.AssemblyInfo.cs
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.csproj.CoreCompileInputs.cache
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/bin/Debug/net6.0/tp1.exe
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/bin/Debug/net6.0/tp1.deps.json
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/bin/Debug/net6.0/tp1.runtimeconfig.json
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/bin/Debug/net6.0/tp1.dll
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/bin/Debug/net6.0/tp1.pdb
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.dll
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/refint/tp1.dll
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.pdb
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/tp1.genruntimeconfig.cache
+D:/Leandro/Estudios/Estudios actuales/Software a distancia/Cuatri 2/DSOO/tp1/tp1/obj/Debug/net6.0/ref/tp1.dll
+/Users/martin/Downloads/tp1/tp1/bin/Debug/net6.0/tp1
+/Users/martin/Downloads/tp1/tp1/bin/Debug/net6.0/tp1.deps.json
+/Users/martin/Downloads/tp1/tp1/bin/Debug/net6.0/tp1.runtimeconfig.json
+/Users/martin/Downloads/tp1/tp1/bin/Debug/net6.0/tp1.dll
+/Users/martin/Downloads/tp1/tp1/bin/Debug/net6.0/tp1.pdb
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.csproj.AssemblyReference.cache
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.AssemblyInfoInputs.cache
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.AssemblyInfo.cs
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.csproj.CoreCompileInputs.cache
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.dll
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/refint/tp1.dll
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.pdb
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/tp1.genruntimeconfig.cache
+/Users/martin/Downloads/tp1/tp1/obj/Debug/net6.0/ref/tp1.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DHt69OXdPrZX/ONq/aX8usb9Rq638X2je1HRtfdtwdl8B3IZ9UQHyCZk38PsYnL2iHMxicSTRxwzbNk4aFiSQ==",
+  "success": true,
+  "projectFilePath": "/Users/martin/Downloads/tp1/tp1/tp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/martin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/martin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/martin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
